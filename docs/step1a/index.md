@@ -4,7 +4,7 @@ To get started with this project you need to install a copy of the PlaygroundPro
 
 Installation steps:
 
-1. Lauch Windows Explorer.
+1. Launch Windows Explorer.
 1. Then navigate to the class dropbox folder: _P:\Instruction\Urner_Douglas\Urner_Douglas-**<our block #>**\Collaboration_.
 1. Open a new window in Windows Explorer and navigate to your game design folder on the U: drive.
 1. Create a folder for the final project.
@@ -14,4 +14,4 @@ Installation steps:
 1. Choose Open at the Startup dialog and choose the **PlaygroundProjectTemplate** folder that you just created.
 1. Once Unity is launched explore the sample projects in the **Examples** folder.
 
-Complete this assignment by making a screen capture of one of the example games. Upload your screen capture as your submission.
+Complete this assignment by making a screen capture (do a "Window Snip" to get the whole Unity window) of one of the example games. Upload your screen capture as your submission.
