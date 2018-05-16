@@ -6,9 +6,9 @@ Installation steps:
 
 1. Lauch Windows Explorer.
 1. Then navigate to the class dropbox folder: _P:\Instruction\Urner_Douglas\Urner_Douglas-**<our block #>**\Collaboration_.
-1. Open a new window in Windows Explorer (type **Control-N**) and navigate to your game design folder on the U: drive.
+1. Open a new window in Windows Explorer and navigate to your game design folder on the U: drive.
 1. Create a folder for the final project.
-1. Make a copy of the PlaygroundProject zip archive by dragging it to the folder you just created. Then extract it.
+1. Make a copy of the PlaygroundProject zip archive by dragging it to the folder you just created. Then extract it (right-click and choose **Extract All**).
 1. Minimize Windows Explorer.
 1. Launch Unity.
 1. Choose Open at the Startup dialog and choose the PlaygroundProject folder that you just created.
