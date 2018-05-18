@@ -8,9 +8,9 @@ It is also important to manage time in the project. The last day of school is Mo
 
 ### Milestones
 
-* **21/22 May** Test GitHub Pages.
+* **21/22 May:** Test GitHub Pages.
 
-* **29/30 May** 1st Prototype playable and accessible on GitHub Pages - with release notes.
+* **29/30 May:** 1st Prototype playable and accessible on GitHub Pages - with release notes.
 
 * **31 May / 1 June:** 1st Playtest
 
